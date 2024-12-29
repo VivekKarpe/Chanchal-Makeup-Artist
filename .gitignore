@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders/files
+.vscode/
+.idea/
+
+# Node.js dependencies (if you later add npm or yarn)
+node_modules/
+
+# Logs
+*.log
+
+# Build output (for future build tools like Webpack)
+dist/
+build/
+
+# Temporary files
+*.swp
+*.bak
+
+# System files
+*.sublime-workspace
